@@ -1,4 +1,4 @@
-## Welcome to INNER I NETWORK PRESIDENT Domain!
+## INNER I NETWORK PRESIDENT Domain!
 
 This is a [Handshake](https://handshake.org/) blockchain Top Level Domain.
 
